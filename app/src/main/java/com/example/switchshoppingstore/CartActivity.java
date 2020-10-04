@@ -121,7 +121,9 @@ public class CartActivity extends AppCompatActivity
                             {
                                 if (i == 0)
                                 {
-
+                                    Intent intent = new Intent(CartActivity.this, ProductDetailsActivity.class);
+                                    intent.putExtra("pid", model.getPid());
+                                    startActivity(intent);
                                 }
                                 if (i == 1)
                                 {
