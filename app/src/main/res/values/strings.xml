@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">View</string>
+    <string name="see_all_reviews">See All reviews</string>
+    <string name="i_would_only_suggest_that_you_provide_social_sharing_icons_for_this_article_on_this_page_that_way_people_can_choose_to_curate_this_article_giving_you_higher_backlinks_or_they_can_send_it_to_their_colleagues_on_their_teams">I would only suggest that you provide social sharing icons for this article on this page. That way people can choose to curate this article, giving you higher backlinks, or, they can send it to their colleagues on their teams.</string>
+    <string name="pathum">Pathum</string>
+    <string name="shop_details">shop_details</string>
+    <string name="textview">textview</string>
+    <string name="description">Description</string>
+    <string name="shop_items">Shop Items</string>
+    <string name="textview1">TextView1</string>
+    <string name="todo">todo</string>
+    <string name="to_do">TODO</string>
+    <string name="highly_recommended_with_your_purchase_cheap_and_with_good_performance">highly_recommended_with_your_purchase_cheap_and_with_good_performance</string>
+    <string name="comment">highly recommended with your purchase cheap and with good performance</string>
+    <string name="item_name">Item Name</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="write_your_review">Write Your Review</string>
+    <string name="edit_your_comment">Edit Your Comment</string>
+    <string name="user_comment">user_Comment</string>
+    <string name="your_feedback">your feedback</string>
+    <string name="db">DB</string>
+    <string name="sony_sweetens_xperia_5_ii">Sony sweetens Xperia 5 II</string>
+    <string name="the_phone_comes_with_a_6_10_inch_touchscreen_display_with_a_resolution_of_1080x2520_pixels_and_an_aspect_ratio_of_21_9_sony_xperia_5_ii_comes_with_8gb_of_ram_the_sony_xperia_5_ii_runs_android_10_and_is_powered_by_a_4000mah_battery_the_sony_xperia_5_ii_supports_proprietary_fast_charging">The phone comes with a 6.10-inch touchscreen display with a resolution of 1080x2520 pixels and an aspect ratio of 21:9. Sony Xperia 5 II comes with 8GB of RAM. The Sony Xperia 5 II runs Android 10 and is powered by a 4000mAh battery. The Sony Xperia 5 II supports proprietary fast charging</string>
+    <string name="rs_150_000">Rs:150,000</string>
+    <string name="sony">Sony</string>
+    <string name="sony_xperia_5_ii">Sony Xperia 5 II</string>
+    <string name="sep_17_2020">Sep 17, 2020</string>
+</resources>
