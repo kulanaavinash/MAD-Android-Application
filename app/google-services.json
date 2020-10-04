@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "417802447612",
+    "firebase_url": "https://switch-shopping-store-database.firebaseio.com",
+    "project_id": "switch-shopping-store-database",
+    "storage_bucket": "switch-shopping-store-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417802447612:android:ea922ed4244fab8f960579",
+        "android_client_info": {
+          "package_name": "com.example.switchshoppingstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417802447612-8hbi13s40ncmdq7tlj3e74kqh10q95r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxcEWu4fAOid_CExdZ32zKPERSPwlUYQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417802447612-8hbi13s40ncmdq7tlj3e74kqh10q95r6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
