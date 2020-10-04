@@ -3,12 +3,11 @@ package com.example.switchshoppingstore.ViewHolder;
 
 import android.view.View;
 import android.widget.TextView;
-
-import com.example.switchshoppingstore.Interface.ItemClickListner;
 import com.example.switchshoppingstore.R;
 
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.example.switchshoppingstore.Interface.ItemClickListner;
 
 public class CartViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener
 {

@@ -1,5 +1,6 @@
 package com.example.switchshoppingstore.Model;
 
+
 public class Users
 {
     private String name, phone, password, image, address;

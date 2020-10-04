@@ -1,6 +1,8 @@
 package com.example.switchshoppingstore;
 
 
+
+
 import android.content.Intent;
 import android.os.Bundle;
 
@@ -21,7 +23,6 @@ import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
-
 
 import com.example.switchshoppingstore.Model.Products;
 import com.example.switchshoppingstore.Prevalent.Prevalent;
@@ -151,7 +152,9 @@ public class HomeActivity extends AppCompatActivity
                                 }
                                 else
                                 {
-
+                                    Intent intent = new Intent(HomeActivity.this, ProductDetailsActivity.class);
+                                    intent.putExtra("pid", model.getPid());
+                                    startActivity(intent);
                                 }
                             }
                         });
@@ -217,10 +220,18 @@ public class HomeActivity extends AppCompatActivity
         {
             if (!type.equals("Admin"))
             {
-
+                Intent intent = new Intent(HomeActivity.this, CartActivity.class);
+                startActivity(intent);
             }
         }
-
+        else if (id == R.id.nav_search)
+        {
+            if (!type.equals("Admin"))
+            {
+                Intent intent = new Intent(HomeActivity.this, SearchProductsActivity.class);
+                startActivity(intent);
+            }
+        }
         else if (id == R.id.nav_categories)
         {
 
