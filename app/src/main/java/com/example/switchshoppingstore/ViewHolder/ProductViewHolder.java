@@ -4,12 +4,10 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.switchshoppingstore.Interface.ItemClickListner;
 import com.example.switchshoppingstore.R;
-
 
 public class ProductViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener
 {

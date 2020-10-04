@@ -10,7 +10,9 @@ import android.widget.ImageView;
 
 import android.os.Bundle;
 
-
+import com.example.switchshoppingstore.HomeActivity;
+import com.example.switchshoppingstore.MainActivity;
+import com.example.switchshoppingstore.R;
 
 public class AdminCategoryActivity extends AppCompatActivity
 {
@@ -60,7 +62,8 @@ public class AdminCategoryActivity extends AppCompatActivity
             @Override
             public void onClick(View view)
             {
-
+                Intent intent = new Intent(AdminCategoryActivity.this, AdminNewOrdersActivity.class);
+                startActivity(intent);
             }
         });
 
