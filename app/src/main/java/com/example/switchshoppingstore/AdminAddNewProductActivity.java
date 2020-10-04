@@ -1,7 +1,6 @@
 package com.example.switchshoppingstore;
 
 import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.ProgressDialog;
@@ -241,4 +240,3 @@ public class AdminAddNewProductActivity extends AppCompatActivity
                 });
     }
 }
-
