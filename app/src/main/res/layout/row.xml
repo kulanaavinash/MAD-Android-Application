@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    app:cardBackgroundColor="#fff"
+    app:cardCornerRadius="3dp"
+    app:cardElevation="3dp"
+    app:contentPadding="5dp"
+    app:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="Sub Title"
+            android:layout_margin="15dp"
+            android:textSize="15dp"
+            android:id="@+id/rTextView"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="Sub Title"
+            android:layout_margin="15dp"
+            android:textSize="15dp"
+            android:id="@+id/rTextView1"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="Sub Title"
+            android:layout_margin="15dp"
+            android:textSize="15dp"
+            android:id="@+id/rTextView2"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="Sub Title"
+            android:layout_margin="15dp"
+            android:textSize="15dp"
+            android:id="@+id/rTextView3"/>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
