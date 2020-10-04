@@ -9,12 +9,11 @@
 
     <ImageView
         android:id="@+id/login_applogo"
-        android:layout_width="300dp"
-        android:layout_height="100dp"
-        android:src="@drawable/applogo"
+        android:layout_width="339dp"
+        android:layout_height="247dp"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="195dp"
-        />
+        android:src="@drawable/applogo" />
 
     <EditText
         android:id="@+id/login_phone_number_input"
